@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>El Mayor de 3</title>
+    <title>Mayor de 3</title>
     <link rel="stylesheet" type="text/css" href="../estilos/principal.css">
 </head>
 
