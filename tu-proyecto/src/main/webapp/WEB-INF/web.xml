@@ -4,4 +4,14 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>SaludoPersonalizado</servlet-name>
+  	<display-name>SaludoPersonalizado</display-name>
+  	<description></description>
+  	<servlet-class>com.miproyecto.servlets.SaludoPersonalizado</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>SaludoPersonalizado</servlet-name>
+  	<url-pattern>/SaludoPersonalizado</url-pattern>
+  </servlet-mapping>
 </web-app>
