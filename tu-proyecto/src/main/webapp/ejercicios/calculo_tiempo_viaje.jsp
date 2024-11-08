@@ -33,14 +33,14 @@
             } else {
 %>
                 <!-- Mensaje de error si la velocidad es cero -->
-                <h3>Error: La velocidad no puede ser cero.</h3>
+                <h3 class="error">Error: La velocidad no puede ser cero.</h3>
                 <a href="calculo_tiempo_viaje.jsp">Volver</a>
 <%
             }
         } catch (NumberFormatException e) {
 %>
             <!-- Mensaje de error si la entrada no es un número válido -->
-            <h3>Error: Por favor ingresa valores numéricos válidos para la distancia y la velocidad.</h3>
+            <h3 class="error">Error: Por favor ingresa valores numéricos válidos para la distancia y la velocidad.</h3>
             <a href="calculo_tiempo_viaje.jsp">Volver</a>
 <%
         }
