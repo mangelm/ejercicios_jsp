@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Inicio</title>
+    <link rel='stylesheet' type="text/css" href="estilos/principal.css">
 </head>
 <body>
 	<!--
