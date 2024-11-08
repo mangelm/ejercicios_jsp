@@ -11,6 +11,8 @@
     -->
     <h1>Indice de Ejercicios</h1>
     <br><br>
-    <a href="ejercicios/saludo_personalizado.jsp">Ejercicio 1. Saludo Personalizado</a>
+    <a href="ejercicios/saludo_personalizado.jsp">Ejercicio 1: Saludo Personalizado</a>
+    <br><br>
+    <a href="ejercicios/calculo_tiempo_viaje.jsp">Ejercicio 2: Cálculo del Tiempo de Viaje</a>
 </body>
 </html>
